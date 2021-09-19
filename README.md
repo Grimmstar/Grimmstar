@@ -2,7 +2,6 @@
 
 ![Cy Banner](assets/Cyriina_Banner.png?raw=true "Cy Banner")
   
-![Cyriina's GitHub stats](https://github-readme-stats.vercel.app/api?username=grimmstar&count_private=true&show_icons=true&theme=material-palenight)
 
 
 
