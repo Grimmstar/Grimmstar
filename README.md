@@ -21,16 +21,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  [![Analytics](https://www.googletagmanager.com/gtag/js?id=G-00CCQ36XNS)](https://github.com/Grimmstar/Grimmstar)
-
-  
-  <!-- Global site tag (gtag.js) - Google Analytics
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-00CCQ36XNS"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-00CCQ36XNS');
-</script>
--->
